@@ -35,7 +35,7 @@ const developer = {
 
 ## 🏢 Experience
 
-- **Co-Founder & CTO — AperaBoost** — Leading the technical side, shaping how we build and ship web products for our clients.
+- **Former Co-Founder & CTO — AperaBoost** — Leading the technical side, shaping how we build and ship web products for our clients.
 - **Former Co-Founder — Markaaf Studio** — A digital studio I co-founded with a strong frontend and product focus.
 - **Student — SMIT** (Saylani Mass IT Training)
 - **Intern — Internee.pk** (Frontend Development)
