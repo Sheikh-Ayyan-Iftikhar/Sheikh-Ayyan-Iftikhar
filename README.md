@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sheikh-Ayyan-Iftikhar&style=flat-square)
 
-I build fast, responsive, and modern web experiences. I focus on clean code, performance, creativity, and user-friendly design. Right now I lead product and technical growth as **Co-Founder & CTO at AperaBoost** — a former co-founder of **Markaaf Studio**.
+I build fast, responsive, and modern web experiences. I focus on clean code, performance, creativity, and user-friendly design.I lead product and technical growth as **FORMER Co-Founder & CTO at AperaBoost** — a former co-founder of **Markaaf Studio**.
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://sheikh-ayyan.netlify.app)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sheikh-Ayyan-Iftikhar)
@@ -14,10 +14,10 @@ I build fast, responsive, and modern web experiences. I focus on clean code, per
 
 ```javascript
 const developer = {
-  name: "Ayan Iftikhar",
+  name: "SHEIKH Ayyan Iftikhar",
   role: "Frontend Developer",
   stack: ["React", "Next.js", "Tailwind"],
-  founder: ["AperaBoost", "Markaaf Studio"],
+  Former founder: ["AperaBoost", "Markaaf Studio"],
   focus: buildAmazingThings()
 };
 ```
