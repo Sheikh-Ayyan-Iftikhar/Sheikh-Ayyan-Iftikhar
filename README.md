@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayan Iftikhar
+# 👋 Hi, I'm Ayyan Iftikhar
 
 **Frontend Developer** | **Former Co-Founder & CTO — [AperaBoost](https://sheikh-ayyan.netlify.app)** | **Former Co-Founder — Markaaf Studio**
 
