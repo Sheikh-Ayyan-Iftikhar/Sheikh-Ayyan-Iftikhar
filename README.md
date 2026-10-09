@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayyan Iftikhar
 
-**Frontend Developer** | **Former Co-Founder & CTO — [AperaBoost](https://sheikh-ayyan.netlify.app)** | **Former Co-Founder — Markaaf Studio**
+**Frontend Developer** | **Former Co-Founder & CTO — [AperaBoost]** | **Former Co-Founder — Markaaf Studio**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sheikh-Ayyan-Iftikhar&style=flat-square)
 
